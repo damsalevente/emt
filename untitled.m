@@ -1,0 +1,8 @@
+pdecirc(0,0,1,'C1') 
+pdecirc(0,0,0.8,'C2') 
+pdecirc(0,0,0.6,'C3')
+pdecirc(0,0,0.5,'C4') 
+pdecirc(0,0,0.4,'C5') 
+pderect([-0.2 0.2 0.2 0.9],'R1') 
+pderect([-0.1 0.1 0.2 0.9],'R2') 
+pderect([0 1 0 1],'SQ1') 

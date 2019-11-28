@@ -1,0 +1,1 @@
+# Motor mágneses terének intenzitás
